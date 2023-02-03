@@ -39,3 +39,5 @@
 # MyDomot
 BuildLab Internship Project - Team 3
 
+MyDomot is a technology-driven personal shopping service that connects individuals with local personal shoppers who can purchase groceries on their behalf. Our platform allows customers to submit a list of items they need and we match them with a personal shopper who can purchase the items and deliver them to the customer's doorstep. Our goal is to make raw food items and grocery shopping hassle-free and convenient for our customers, while providing access to fresh and healthy food items.
+
