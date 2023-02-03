@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/teqbaddie/MyDomot">
-    <img src="img/myDomotLogo.png" alt="Logo" width="40%" height="15%">
+    <img src="img/android-chrome-512x512.png" alt="Logo" width="40%" height="15%">
   </a>
 </div>
 
